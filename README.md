@@ -201,6 +201,7 @@ Agora temos um **formatador de nomes poderoso**, que pode ser **usado em cadastr
 ✅ **Testes automatizados** Assegurando que a lógica funciona.  
 ✅ **Criação de uma API** 
 Permite integração com sistemas web.  
+
 ✅ **Estrutura organizada** 
 Fácil manutenção e expansão.  
 
