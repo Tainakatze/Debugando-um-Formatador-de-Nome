@@ -192,15 +192,18 @@ Este projeto está sob a licença **MIT**, permitindo que qualquer pessoa possa 
 ---
 
 ## **Conclusão:**  
-Agora temos um **formatador de nomes poderoso**, que pode ser **usado em cadastros online, aplicações web e até como um serviço via API**! 🚀  
+Agora temos um **formatador de nomes poderoso**, que pode ser **usado em cadastros online, aplicações web e até como um serviço via API**!   
 
 ✅ **Validação da entrada**  Evitando caracteres inválidos.  
 
 ✅ **Correção de nomes compostos**  Mantendo `"da", "de"` corretamente em minúsculas.  
 
+
 ✅ **Testes automatizados** Assegurando que a lógica funciona.  
+
 ✅ **Criação de uma API** 
 Permite integração com sistemas web.  
+
 
 ✅ **Estrutura organizada** 
 Fácil manutenção e expansão.  
